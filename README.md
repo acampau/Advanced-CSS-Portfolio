@@ -33,6 +33,5 @@
 <p>Page published at:
 
 <h2>Screenshot</h2>
-<img
-        src="./assets/images/Portfolio_Alexa.png"
-        alt="screenshot mock-up"/>
+<img src="assets/images/screenshot.png" alt="portfolio screenshot">
+</img>
