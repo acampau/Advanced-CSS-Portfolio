@@ -30,7 +30,7 @@
 <p>THEN I am presented with a responsive layout that adapts to my viewport</p>
 
 <h2>Deployed Page</h2>
-<p>Page published at:
+<p>Page published at: https://acampau.github.io/Advanced-CSS-Portfolio/
 
 <h2>Screenshot</h2>
 <img src="assets/images/screenshot.png" alt="portfolio screenshot">
